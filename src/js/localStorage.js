@@ -1,5 +1,5 @@
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
-import 'notiflix/dist/notiflix-3.2.5.min.css';
+import 'notiflix/dist/notiflix-3.2.6.min.css';
 
 export const localStorageUs = {
   save,
